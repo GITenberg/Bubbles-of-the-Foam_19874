@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3998
     wikipedia: http://en.wikipedia.org/wiki/F._W._Bain
 description: I.A spoiled child.--II. The thirst of an antelope.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19874#Bubbles-of-the-Foam
 gutenberg_issued: '2006-11-20'
 gutenberg_type: Text
 identifiers:
